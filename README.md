@@ -1,10 +1,10 @@
 # Grapevine Forum Monitoring
-This is an independent project exploring real time conversations of industry insiders in a key industry.
+This is an independent project exploring real time conversations of professionals in a key industry.
 
 #### -- Project Status: [Active]
 
 ## Project Intro/Objective
-The purpose of this application is to provide intelligence on current conversations within this vertical  as they arise. Through the additional incorporation of semantic layers, this project aims to provide higher level meta-analysis of industry trends. 
+The purpose of this application is to provide intelligence on current conversations within this vertical as they arise. Through the additional incorporation of semantic layers, this project aims to provide higher level meta-analysis of industry trends. 
 
 ### Methods Used
 * Sentiment Analysis
