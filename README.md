@@ -17,7 +17,10 @@ The purpose of this application is to provide intelligence on current conversati
 * Mongodb
 
 ## Project Description
-Forums are scraped in realtime and stored in Mongodb. Data cleansing operations are performed, and metrics for project sentiment and subjectivity are obtained. Topic-wise, the project tracks conversations from their inception, and observes moving average trends through the forum lifecycle. Additional value will be provided in this project through the development of different meta-levels that can be tracked over time. 
+Forums are scraped in realtime and stored in Mongodb. Data cleansing operations are performed, and metrics for project sentiment and subjectivity are obtained. Topic-wise, the project tracks conversations from their inception, and observes moving average trends through the forum lifecycle. Additional value will be provided in this project through the development of different meta-levels that can be tracked over time. Information is anonomyzed, for proprietary reasons. Below you can see results from 8/18/2019 on subjectivity and polarity measures. 
+
+![Image description](20190818 Polarity Measure.png)
+![Image description](20190818 Subjectivity Measure.png)
 
 ## Needs of this project
 
