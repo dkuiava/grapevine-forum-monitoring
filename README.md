@@ -26,7 +26,7 @@ Forums are scraped in realtime and stored in Mongodb. Data cleansing operations 
 
 
 ## Featured Notebooks
-* [Jupyter Notebook](https://github.com/dkuiava/grapevine-forum-monitoring/blob/master/Sentiment%20Analysis%20By%20Forum%20Topic.ipynb)
+* [Jupyter Notebook](https://github.com/dkuiava/grapevine-forum-monitoring/blob/master/Sentiment%20Analysis%20By%20Forum%20Topic.ipynb) : Unfortunately, this jupyter notebook is not rendering in the Github ui. This is a known problem. For now, I'd encourage you to download the notebook and have a look at my process. 
 
 ## Contact
 * Feel free to contact me at dkuiava@gmail.com with questions regarding the project
